@@ -7,9 +7,9 @@ Appointment Scheduler App in Express.js and React with Materials UI
 
 _Screen capture_
 
-![Alt Text](https://github.com/barrancocarlos/movies-tracker/blob/master/express-api/public/images/screen1.png)
+![Alt Text](https://github.com/barrancocarlos/appointment-app/blob/master/express-api/public/images/screen1.png)
 
-![Alt Text](https://github.com/barrancocarlos/movies-tracker/blob/master/express-api/public/images/screen2.png)
+![Alt Text](https://github.com/barrancocarlos/appointment-app/blob/master/express-api/public/images/screen2.png)
 
 
 ## Getting Started
