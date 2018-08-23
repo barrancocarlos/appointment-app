@@ -9,6 +9,8 @@ _Screen capture_
 
 ![Alt Text](https://github.com/barrancocarlos/appointment-app/blob/master/express-api/public/images/screen1.png)
 
+_Date Picker_
+
 ![Alt Text](https://github.com/barrancocarlos/appointment-app/blob/master/express-api/public/images/screen2.png)
 
 
@@ -28,7 +30,7 @@ Make sure you have installed all of the following prerequisites on your developm
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/barrancocarlos/movies-tracker.git
+$ git clone https://github.com/barrancocarlos/appointment-app.git
 
 # Go into the repository
 $ cd movies-tracker
