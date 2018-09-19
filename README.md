@@ -1,4 +1,4 @@
-# Movies Tracker
+# Appointment App
 
 ![Alt Text](https://github.com/barrancocarlos/movies-tracker/blob/master/public/images/node.jpg)
 
